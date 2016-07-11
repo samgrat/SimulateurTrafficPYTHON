@@ -1,0 +1,7 @@
+Classification des versions:
+
+V1: VehiculeLigneDroite.py
+V2: VehiculeFeu.py
+V3: VehiculesCurseurs.py
+V4: VehiculesMultiples.py
+V5: VéhiculesMultiplesAcc.py
