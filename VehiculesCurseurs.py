@@ -25,7 +25,7 @@ FRouge = False               # Move: feu rouge ?
 #DAA = 0
 j = 0                   # indice de la balle en mouvement
 
-# hello github :)
+
 
 # Véhicule i = (objet, Position, speed, End: Move: Le véhicule a atteint le mur ?, DFA, DAA, Vitesse de Deceleration)
 
